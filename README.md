@@ -53,14 +53,14 @@ I don’t just write code. I architect systems, exploit vulnerabilities, train n
   <img src="https://your-demo-image.com/demo.gif" width="300" />
   <h3>🔍 (ProjectName)</h3>
   <p><em>AI-based vulnerability scanner built on GPT-4 + Shodan</em></p>
-  <a href="https://github.com/your-username/project-name">🔗 View Project</a>
+  <a href="https://github.com/AHPz-2021/project-name">🔗 View Project</a>
 </div>
 
 <div align="center">
   <img src="https://your-bot-image.com/bot.png" width="200" />
   <h3>🤖 (Advanced Telegram Bot)</h3>
   <p><em>Crypto-verified access, NSFW filter, inline UI, built with Pyrogram + SQLite</em></p>
-  <a href="https://github.com/your-username/telegram-bot">🔗 View Bot</a>
+  <a href="https://github.com/AHPz-2021/telegram-bot">🔗 View Bot</a>
 </div>
 
 ---
@@ -110,23 +110,23 @@ I don’t work for companies. I work with <strong>missions</strong>.
 ## 📊 GitHub Stats (Experimental - Encrypted Insight)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymous-cyber-ghost&show_icons=true&theme=radical&hide=issues&hide_rank=true&custom_title=Cyber%20Ops%20Activity%20Map" />
+  <img src="https://github-readme-stats.vercel.app/api?AHPz-2021=anonymous-cyber-ghost&show_icons=true&theme=radical&hide=issues&hide_rank=true&custom_title=Cyber%20Ops%20Activity%20Map" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-cyber-ghost&layout=compact&theme=radical&custom_title=Core%20Languages%20Under%20the%20Hood" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AHPz-2021=anonymous-cyber-ghost&layout=compact&theme=radical&custom_title=Core%20Languages%20Under%20the%20Hood" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-cyber-ghost&theme=highcontrast&hide_border=true&ring=9B59B6&fire=E74C3C&sideNums=F1C40F&custom_title=Undetectable%20Commit%20Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?AHPz-2021=anonymous-cyber-ghost&theme=highcontrast&hide_border=true&ring=9B59B6&fire=E74C3C&sideNums=F1C40F&custom_title=Undetectable%20Commit%20Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anonymous-cyber-ghost&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?AHPz-2021=anonymous-cyber-ghost&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anonymous-cyber-ghost&theme=darkhub&row=1&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?AHPz-2021=anonymous-cyber-ghost&theme=darkhub&row=1&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
